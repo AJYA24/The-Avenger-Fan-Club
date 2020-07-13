@@ -1,0 +1,68 @@
+body{
+    text-align: left;
+    color: green;
+    background-color: yellow;
+    font-size: 1.3rem;
+    line-height: 1.0;
+}
+
+h1{
+
+}
+
+li{
+    font-family: 'Germania One', cursive;
+}
+
+.Infinity{
+  height: 400px;
+  width: 550px;
+  position: absolute;
+  left: 200px;
+  padding-bottom: 30px;
+}
+
+.InfinityStones{
+  position: absolute;
+  bottom: -1290px;
+  margin-right: 20px;
+  margin-bottom: 100px;
+  line-height: 1.5;
+}
+
+.InfinitySaga{
+  position: absolute;
+  bottom: -1950px;
+  line-height: 2;
+}
+a{
+  text-decoration: none;
+  display: block;
+  line-height: 2;
+  color: blue;
+  font-family: 'Fondamento', cursive;
+  font-weight: bold;
+}
+a:hover{
+  color: darkblue;
+}
+
+h3{
+  color: green;
+}
+
+.copyright{
+  display: inline;
+  height: 13px;
+  width: 30px;
+  background-color: yellow;
+  color: yellow;
+}
+
+h5{
+  color: black;
+  font-family: none;
+  position: absolute;
+  bottom: -375px;
+  left: 50px;
+}
